@@ -1,0 +1,13 @@
+E:\Projetos testes\SeteDaSorteSln\SeteDaSorte\bin\Debug\SeteDaSorte.exe.config
+E:\Projetos testes\SeteDaSorteSln\SeteDaSorte\bin\Debug\SeteDaSorte.exe
+E:\Projetos testes\SeteDaSorteSln\SeteDaSorte\bin\Debug\SeteDaSorte.pdb
+E:\Projetos testes\SeteDaSorteSln\SeteDaSorte\bin\Debug\SeteDaSorte.xml
+E:\Projetos testes\SeteDaSorteSln\SeteDaSorte\obj\Debug\SeteDaSorte.vbproj.AssemblyReference.cache
+E:\Projetos testes\SeteDaSorteSln\SeteDaSorte\obj\Debug\SeteDaSorte.vbproj.SuggestedBindingRedirects.cache
+E:\Projetos testes\SeteDaSorteSln\SeteDaSorte\obj\Debug\SeteDaSorte.Resources.resources
+E:\Projetos testes\SeteDaSorteSln\SeteDaSorte\obj\Debug\SeteDaSorte.vbproj.GenerateResource.cache
+E:\Projetos testes\SeteDaSorteSln\SeteDaSorte\obj\Debug\SeteDaSorte.vbproj.CoreCompileInputs.cache
+E:\Projetos testes\SeteDaSorteSln\SeteDaSorte\obj\Debug\SeteDaSorte.exe
+E:\Projetos testes\SeteDaSorteSln\SeteDaSorte\obj\Debug\SeteDaSorte.xml
+E:\Projetos testes\SeteDaSorteSln\SeteDaSorte\obj\Debug\SeteDaSorte.pdb
+E:\Projetos testes\SeteDaSorteSln\SeteDaSorte\obj\Debug\SeteDaSorte.TelaPrincipal.resources
